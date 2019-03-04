@@ -3,5 +3,6 @@
 int main(void)
 {
 	print(me)
+	print(me_ver2)
 	return 0
 }
