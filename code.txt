@@ -4,5 +4,6 @@ int main(void)
 {
 	print(me)
 	print(he)
+	print(me_ver2)
 	return 0
 }
