@@ -2,3 +2,4 @@ print x
 print y
 
 def print_function():
+	print x
