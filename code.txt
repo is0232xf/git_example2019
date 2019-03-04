@@ -1,2 +1,7 @@
+import print_lib
+
 print x
 print y
+
+def print_function():
+	print x
