@@ -2,5 +2,6 @@
 
 int main(void)
 {
+	print(me)
 	return 0
 }
