@@ -3,5 +3,6 @@
 int main(void)
 {
 	print(me)
+	print(he)
 	return 0
 }
