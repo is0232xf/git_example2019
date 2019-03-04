@@ -1,7 +1,6 @@
-import print_lib
+#include <iostream>
 
-print x
-print y
-
-def print_function():
-	print x
+int main(void)
+{
+	return 0
+}
